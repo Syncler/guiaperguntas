@@ -1,6 +1,6 @@
 # GUIA PERGUNTAS
 
-Repositorio de estudos de node, criando uma plataforma de perguntas, etilo YAHOO perguntas
+Repositorio de estudos de node, criando uma plataforma de perguntas, estilo YAHOO perguntas
 
 ## Instalar as dependencias
 
